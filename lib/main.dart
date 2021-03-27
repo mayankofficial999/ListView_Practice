@@ -149,10 +149,9 @@ class InfoPage extends StatelessWidget{
               initialUrl: info[pos],
             ),
           ),
-          
         ],
       ),
-      )
+      ),
     );
   }
 }
