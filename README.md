@@ -1,6 +1,10 @@
 # listview_practice
 
-A new Flutter project.
+First flutter project.
+
+Implemented ListView with each list item as a button to navigate to Info Page.
+
+Info Page consists of an image and description of the element and A back button in App Bar to navigate to main menu.
 
 ## Getting Started
 
